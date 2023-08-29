@@ -7,21 +7,13 @@
     background-color: #568563;
   }
   
-.box1 , .box2 {
+.box1 , .box2 , .box3 {
     background-color: #363333;
     height: 200px;
     width: 300px;
-    margin-top: 50px;
+
     margin-left: 50px;
+    margin-bottom: 50px;
   }
   
   
-.box3 {
-    background-color: #363333;
-    height: 200px;
-    height: 200px;
-    width: 300px;
-    margin-top: 50px;
-    margin-left: 50px;
-    margin-bottom: 50px;
-}
