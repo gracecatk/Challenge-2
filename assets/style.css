@@ -19,3 +19,29 @@
     height: 200px;
     width: 300px;
   }
+
+  .pfpimg {
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+
+  .pfp {
+    height: 200px;
+    width: 200px;
+    background-color: #363333;
+    margin-left: 750px;
+    margin-bottom: 75px;
+    margin-top: -865px;
+    border-radius: 50%;
+  }
+
+  .aboutme {
+    background-color: #568563;
+    height: 600px;
+    width: 450px;
+    margin-left: 750px;
+    margin-top: -685px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
