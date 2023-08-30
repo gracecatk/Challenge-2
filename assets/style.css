@@ -1,5 +1,5 @@
 .header {
-    padding: 20px;
+    padding-top: 15px;
     font-family: 'Times New Roman', Times, serif;
     background-color: #568563;
     color: white;
@@ -33,7 +33,7 @@ a {
 }
 
 .outer-container {
-    margin-top: 30px;
+    margin-top: 0px;
     display: grid;
     grid-template-columns: 1fr;
     column-gap: 20px;
@@ -42,20 +42,18 @@ a {
   }
   
   .box1{
-    background-color: #363333;
     height: 200px;
     width: 300px;
     margin-left: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 120px;
     margin-top: 600px
   }
 
 .box3 , .box2{
-    background-color: #363333;
     height: 200px;
     width: 300px;
     margin-left: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 133px;
   }
   
   .img {
@@ -72,19 +70,17 @@ a {
   .pfp {
     height: 200px;
     width: 200px;
-    background-color: #363333;
     margin-left: 17px;
     margin-bottom: 75px;
-    margin-top: -1520px;
+    margin-top: -1604px;
     border-radius: 50%;
   }
 
   .aboutme {
-    background-color: #568563;
-    height: 390px;
+    height: 250px;
     width: 450px;
     margin-left: 29px;
-    margin-top: -1306px;
+    margin-top: -1405px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
   }
