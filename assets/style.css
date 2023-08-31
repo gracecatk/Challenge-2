@@ -1,6 +1,11 @@
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif */
+
 .header {
     padding-top: 15px;
-    font-family: 'Times New Roman', Times, serif;
     background-color: #0c1c11;
     color: white;
 }
@@ -9,7 +14,6 @@
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 
@@ -97,7 +101,7 @@ a {
   .pfp {
     height: 200px;
     width: 200px;
-    margin-left: 173px;
+    margin-left: 194px;
     margin-bottom: 75px;
     margin-top: -1796px;
     border-radius: 50%;
@@ -107,8 +111,7 @@ a {
     height: 250px;
     width: 450px;
     margin-left: 64px;
-    margin-top: -1566px;
-    font-family: 'Times New Roman', Times, serif;
+    margin-top: -1542px;
     font-weight: bold;
   }
 
