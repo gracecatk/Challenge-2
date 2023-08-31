@@ -1,4 +1,4 @@
-![Alt text](image-1.png)
+![portfolio](https://github.com/gracecatk/Challenge-2/assets/140928469/98cb8192-2dea-47e5-9730-d65d9ee3cc50)
 # Challenge-2
 In challenge 2, I created my own Portfolio.
 ## Table of Contents
